@@ -1,0 +1,35 @@
+_repo: Voyage-a-l-Ile-de-France-22_63920
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Saint-Pierre, Bernardin de
+    aliases:
+    - Saint-Pierre, Jacques Henri Bernardin de
+    - St. Pierre, Bernardin de (Saint-Pierre)
+    - Saint-Pierre, Henri Bernardin de
+    - De Saint-Pierre, Bernardin
+    birthdate: 1737
+    deathdate: 1814
+    gutenberg_agent_id: '825'
+    url: http://www.gutenberg.org/2009/agents/825
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Jacques-Henri_Bernardin_de_Saint-Pierre
+    - https://en.wikipedia.org/wiki/Jacques-Henri_Bernardin_de_Saint-Pierre
+description: ''
+gutenberg_issued: '2020-11-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63920'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cape of Good Hope (South Africa) -- Description and travel -- Early works
+  to 1800'
+- !lcc 'DT'
+- !lcsh 'Mauritius -- Description and travel -- Early works to 1800'
+- !lcsh 'Réunion -- Description and travel -- Early works to 1800'
+- GITenberg
+title: Voyage à l'Ile-de-France (2/2)
+url: http://www.gutenberg.org/ebooks/63920
